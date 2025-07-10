@@ -9,8 +9,8 @@ Feature Requests / Bug Reports are welcommed and opened within issues of this re
 
 Latest release can be found here: TBD
 Supported platforms (at the moment):
- - Linux
- - MacOS
+ - Linux (Download package from releases)
+ - MacOS (not signed yet, so its kinda not runnable atm)
  - Windows
 
 You can find runnable binaries within releases of this repository.
