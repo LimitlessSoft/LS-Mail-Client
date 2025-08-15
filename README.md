@@ -14,3 +14,7 @@ Supported platforms (at the moment):
  - Windows (Mostly not runnable atm)
 
 You can find runnable binaries within releases of this repository.
+
+https://github.com/user-attachments/assets/d5e7e639-d3c8-4537-a5a7-1d1ea7242b8a
+
+
